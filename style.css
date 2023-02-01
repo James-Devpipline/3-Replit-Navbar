@@ -46,6 +46,10 @@ body,html{
   color: white;
 }
 
+.nav-link button:hover {
+  background-color: #383b42;
+}
+
 .nav-link button i {
   color: white;
 }
@@ -60,4 +64,8 @@ body,html{
   height: 40px;
   width: 100px;
   border-radius: 8px;
+}
+
+.run-button button:hover {
+  background-color: #d96d00;
 }
